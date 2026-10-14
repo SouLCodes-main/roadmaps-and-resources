@@ -24,11 +24,11 @@ Want to contribute? Add your name, contribution, and GitHub profile through a Pu
 
 | Contributor                                      | Contribution            | GitHub                                                |
 | ------------------------------------------------ | ----------------------- | ------------------------------------------------      |
-| Kathrina Elangbam                                | Frontend Roadmap        | [@Kathrina-dev](https://github.com/Kathrina-dev)      |
-| Shaunak Choudhury                                | Backend Roadmap         | [@shaunakc11](https://github.com/shaunakc11)          |
-| Mayank Bothra                                    | UI/UX Design Roadmap    | [@mayankwho](https://github.com/mayankWHO)            |
+| [Kathrina Elangbam](https://kathrinaelangbam.xyz)| Frontend Roadmap        | [@Kathrina-dev](https://github.com/Kathrina-dev)      |
+| [Shaunak Choudhury](https://www.shaunakc.com/)   | Backend Roadmap         | [@shaunakc11](https://github.com/shaunakc11)          |
 | Rakesh Kumar Rabha                               | Blockchain Roadmap      | [@0xPixelNinja](https://github.com/0xPixelNinja)      |
-| Pranjal Kumar                                    | Git & Github Roadmap    | [@pranjal-kumar-0](github.com/pranjal-kumar-0)        |
+| [Pranjal Kumar](https://www.pranjalk.tech/)      | Git & Github Roadmap    | [@pranjal-kumar-0](github.com/pranjal-kumar-0)        |
+| [Mayank Bothra](https://mayankbothra.dev/)       | UI/UX Design Roadmap    | [@mayankwho](https://github.com/mayankWHO)            |
 | [Swarnim Bandekar](https://swarnimbandekar.in/)  | Web Security Roadmap    | [@swarnimbandekar](https://github.com/swarnimbandekar)|
 | [Karanam Gagan Deep](https://video.gaghackz.me/) | Video Editing Roadmap   | [@gaghackz](https://github.com/gaghackz)              |
 
