@@ -14,6 +14,7 @@ Roadmaps are being added as the community builds them.
 - [UI/UX Design](roadmaps/UIUX%20Design/README.md)
 - [Web Application Security](roadmaps/web-security/README.md)
 - [Video Editing](roadmaps/video-editing/README.md)
+- [Blockchain](roadmaps/blockchain/ROADMAP.md)
 
 ## Contributors
 
@@ -26,6 +27,7 @@ Want to contribute? Add your name, contribution, and GitHub profile through a Pu
 | Kathrina Elangbam                                | Frontend Roadmap        | [@Kathrina-dev](https://github.com/Kathrina-dev)      |
 | Shaunak Choudhury                                | Backend Roadmap         | [@shaunakc11](https://github.com/shaunakc11)          |
 | Mayank Bothra                                    | UI/UX Design Roadmap    | [@mayankwho](https://github.com/mayankWHO)            |
+| Rakesh Kumar Rabha                               | Blockchain Roadmap      | [@0xPixelNinja](https://github.com/0xPixelNinja)      |
 | Pranjal Kumar                                    | Git & Github Roadmap    | [@pranjal-kumar-0](github.com/pranjal-kumar-0)        |
 | [Swarnim Bandekar](https://swarnimbandekar.in/)  | Web Security Roadmap    | [@swarnimbandekar](https://github.com/swarnimbandekar)|
 | [Karanam Gagan Deep](https://video.gaghackz.me/) | Video Editing Roadmap   | [@gaghackz](https://github.com/gaghackz)              |
