@@ -32,7 +32,7 @@ Want to contribute? Add your name, contribution, and GitHub profile through a Pu
 | [Swarnim Bandekar](https://swarnimbandekar.in/)  | Web Security Roadmap    | [@swarnimbandekar](https://github.com/swarnimbandekar)|
 | [Karanam Gagan Deep](https://video.gaghackz.me/) | Video Editing Roadmap   | [@gaghackz](https://github.com/gaghackz)              |
 | Rakesh Kumar Rabha                               | Blockchain Roadmap      | [@0xPixelNinja](https://github.com/0xPixelNinja)      |
-| [SouLCodes](https://soulcodes.netlify.app)       | Machine Learning Roadmap| [@SouLCodes-main](https://github.com/SouLCodes-main)  |
+| [Prabal Singh](https://soulcodes.netlify.app)       | Machine Learning Roadmap| [@SouLCodes-main](https://github.com/SouLCodes-main)  |
 
 ## Contributing
 
