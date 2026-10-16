@@ -288,4 +288,4 @@ As you progress rely heavily on official documentation and active communities.
 
 Found something that could be improved or have a resource to suggest?
 
-See the repositorys [CONTRIBUTING.md](../../CONTRIBUTING.md) to learn how to contribute.
+See the repository's [CONTRIBUTING.md](../../CONTRIBUTING.md) to learn how to contribute.
